@@ -1,7 +1,7 @@
 name: Gaston Serralta
 favicon: null
-layout_spectrum: 0.7657079445198178
-typography_spectrum: 0.7604867371264845
+layout_spectrum: 0.20583
+typography_spectrum: 0.21282
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#feffff'
+    - '#786f5e'
+    - '#0e0c0d'
+    - '#baa894'
+    - '#67372c'
   brandStrength: 0.5154874087311327
   lightness: 0.4394373616669327
   saturation: 0.7130301664583385
